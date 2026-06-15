@@ -3,6 +3,6 @@
   <app appid='cadffdbdkbekcifk'>
     <updatecheck
       codebase='https://raw.githubusercontent.com/VitorAlmeidasPro/Elo-tools/main/gestao-laudos.crx'
-      version='1.3' />
+      version='1.4' />
   </app>
 </gupdate>
